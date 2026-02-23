@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="add_expense">Добавить расход</string>
+    <string name="daily_expenses">Дневные расходы: %1$s</string>
+    <string name="monthly_expenses">Месячные расходы: %1$s</string>
+    <string name="search_expenses">Поиск расходов</string>
+    <string name="category">Категория</string>
+    <string name="amount">Сумма</string>
+    <string name="date">Дата</string>
+    <string name="description">Описание</string>
+    <string name="limit_exceeded">Превышен месячный лимит расходов!</string>
+</resources>
