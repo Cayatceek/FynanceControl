@@ -338,5 +338,6 @@ cd expense-tracker
 
 ## 👨‍💻 Author
 
+Cayatceek - Software engineer 
 Expense Tracker v1.0.0
 © 2026 All rights reserved
