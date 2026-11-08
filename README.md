@@ -255,10 +255,10 @@ data class Expense(
 ### Клонирование и запуск
 ```bash
 # Клонирование репозитория
-git clone https://github.com/username/expense-tracker.git
+git clone https://github.com/Cayatceek/FynanceControl.git
 
 # Переход в папку проекта
-cd expense-tracker
+cd FynanceControl
 
 # Открытие в Android Studio
 # File -> Open -> Выберите папку проекта
@@ -331,13 +331,9 @@ cd expense-tracker
 ./gradlew connectedAndroidTest
 ```
 
-### Покрытие кода
-```bash
-./gradlew jacocoTestReport
-```
 
 ## 👨‍💻 Автор
 
-Cayaceek - Инженер-программист
+Cayatceek - Инженер-программист
 Expense Tracker v1.0.0
 © 2026 Все права защищены
