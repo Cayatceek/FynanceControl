@@ -255,10 +255,10 @@ The project uses the following open source libraries:
 ### Cloning and Running
 ```bash
 # Clone the repository
-git clone https://github.com/username/expense-tracker.git
+git clone https://github.com/Cayatceek/FynanceControl.git
 
 # Navigate to project folder
-cd expense-tracker
+cd FynanceControl
 
 # Open in Android Studio
 # File -> Open -> Select project folder
@@ -329,11 +329,6 @@ cd expense-tracker
 ```bash
 # Connect device or start emulator
 ./gradlew connectedAndroidTest
-```
-
-### Code Coverage
-```bash
-./gradlew jacocoTestReport
 ```
 
 ## 👨‍💻 Author
